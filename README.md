@@ -1,6 +1,6 @@
-![Demo Image](img/demo.jpg)
+![Demo Image](img/css-variables-js-demo.jpg)
 # CSS Variables and Javascript
-
+Three CSS variables are declared, spacing, blur, and base color.  With JavaScript, the CSS variables can be updated. Users can dynamically modify the appearance of the image on the page.
 
 ## Live Demo
 
